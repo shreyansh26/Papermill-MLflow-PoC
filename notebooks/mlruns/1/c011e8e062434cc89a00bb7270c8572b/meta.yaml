@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Data/Projects/Papermill-MLflow/notebooks/mlruns/1/c011e8e062434cc89a00bb7270c8572b/artifacts
+end_time: 1638645264895
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: c011e8e062434cc89a00bb7270c8572b
+run_uuid: c011e8e062434cc89a00bb7270c8572b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1638645264832
+status: 3
+tags: []
+user_id: shrey
